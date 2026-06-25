@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+python-dotenv
+pydantic
+chromadb
+sentence-transformers
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
